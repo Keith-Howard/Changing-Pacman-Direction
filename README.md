@@ -1,0 +1,2 @@
+# Changing-Pacman-Direction
+This project is for Week 04 of MIT xPro Full Stack with MERN Certificate.  This project introduced the set interval function to call a function that would run the logic repeated after a delay. The program itself moves a pacman image across the screen and changes directions when it collides with the window boundaries. Another feature of the logic was  to change pictures every time the program ran. 
