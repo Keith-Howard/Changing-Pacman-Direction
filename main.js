@@ -13,6 +13,8 @@ const pacArray = [
 // 1 = right to left (reverse)
 var direction = 0;
 
+// new comment
+
 // This variable helps determine which PacMan image should be displayed. It flips between values 0 and 1
 var focus = 0;
 
